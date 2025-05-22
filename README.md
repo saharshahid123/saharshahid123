@@ -28,7 +28,7 @@ Passionate about creating beautiful, responsive websites with clean code.
 
 <div align="center">
   
-![Graduation Cap](https://github.com/yourusername/yourusername/blob/main/grad-cap.gif?raw=true)  
+[Graduation Cap](https://github.com/yourusername/yourusername/blob/main/grad-cap.gif?raw=true)  
 *"Education is the most powerful weapon" - Nelson Mandela*
 
 </div>

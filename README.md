@@ -18,6 +18,17 @@ Passionate about creating beautiful, responsive websites with clean code.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 🎓 My Learning Journey
+
+📚 **HTML/CSS** - _Graduated with Honors_  
+🎓 **JavaScript** - _Final Year Student_  
+📖 **React** - _Midterm Exams_  
+✏️ **Next.js** - _Just Started Class_  
+📘 **TypeScript** - _Not Enrolled Yet_  
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/coding-girl-card.svg" width="300" alt="Girl coding animation"/>
+  
+![Graduation Cap](https://github.com/yourusername/yourusername/blob/main/grad-cap.gif?raw=true)  
+*"Education is the most powerful weapon" - Nelson Mandela*
+
 </div>

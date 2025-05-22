@@ -18,22 +18,5 @@ Passionate about creating beautiful, responsive websites with clean code.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![Animated Programmer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A9F7&width=435&lines=console.log(%22Hello+World%22);while(coding){girl++;};)](https://git.io/typing-svg)
+[![Typing Girl](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=F7A9F7&width=500&lines=console.log(%22Hello+World%22);const+girlCoder+=+true;)](https://git.io/typing-svg)
 
-
-<div align="center">
-  <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    <!-- Girl -->
-    <circle cx="150" cy="60" r="30" fill="#FFD5C2"/>
-    
-    <!-- Laptop -->
-    <rect x="100" y="100" width="100" height="60" rx="5" fill="#e0e0e0"/>
-    <rect x="110" y="110" width="80" height="40" fill="#333"/>
-    
-    <!-- Code Animation -->
-    <text x="115" y="130" font-family="monospace" font-size="8" fill="#0F0">
-      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-      > npm start
-    </text>
-  </svg>
-</div>

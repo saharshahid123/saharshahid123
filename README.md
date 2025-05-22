@@ -18,5 +18,6 @@ Passionate about creating beautiful, responsive websites with clean code.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![Typing Girl](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=24&duration=3000&pause=1000&color=F7A9F7&width=500&lines=console.log(%22Hello+World%22);const+girlCoder+=+true;)](https://git.io/typing-svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/coding-girl-card.svg" width="300" alt="Girl coding animation"/>
+</div>

@@ -18,5 +18,7 @@ Passionate about creating beautiful, responsive websites with clean code.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/girl-coding.svg" width="400" height="300" alt="girl coding"/>
+</div>
 

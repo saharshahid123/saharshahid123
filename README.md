@@ -19,3 +19,16 @@ Passionate about creating beautiful, responsive websites with clean code.
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 [![Animated Programmer](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A9F7&width=435&lines=console.log(%22Hello+World%22);while(coding){girl++;};)](https://git.io/typing-svg)
+
+
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Girl character -->
+  <circle cx="100" cy="50" r="20" fill="#FFD5C2"/>
+  <!-- Laptop -->
+  <rect x="60" y="90" width="80" height="40" fill="#ddd"/>
+  <!-- Code lines animation -->
+  <text x="70" y="110" font-family="monospace" font-size="10" fill="black">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+    function code() {
+  </text>
+</svg>
